@@ -1,4 +1,4 @@
-# Docker-Pyrit
+# Pyrit-in-Docker
 
 > Taming Pyrit dependencies by packaging via Docker
 
